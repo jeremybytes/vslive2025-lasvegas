@@ -43,6 +43,10 @@ Provides a list of "Person" objects. This service will delay for 3 seconds befor
 
 ## Resources  
 
+**Upcoming 2-Day Workshop**  
+* [Asynchronous and Parallel Programming in C#](https://vslive.com/events/training-seminars/2025/june24/home.aspx)  
+Virtual Training - June 24-25, 2025
+
 **Articles**  
 * [Task and Await: Consuming Awaitable Methods](http://jeremybytes.blogspot.com/2014/12/task-and-await-consuming-awaitable.html)  
 * [UI Considerations When Using Asynchronous Methods](http://jeremybytes.blogspot.com/2014/12/ui-considerations-when-using.html)  
