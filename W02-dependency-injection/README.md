@@ -26,6 +26,9 @@ Many of our modern frameworks have Dependency Injection (DI) built in. But how d
 **Challenges**  
 * Static Objects: [Mocking Current Time with a Simple Time Provider](https://jeremybytes.blogspot.com/2015/01/mocking-current-time-with-time-provider.html)  
 
+**Other Resources**  
+* Steve Smith: [New is Glue](https://ardalis.com/new-is-glue/)  
+
 **Other Topics**  
 * Topic: [IEnumerable, ISaveable, IDontGetIt: Understanding C# Interfaces](http://www.jeremybytes.com/Demos.aspx#INT)  
 * Topic: [Abstract Art: Getting Abstraction "Just Right"](http://www.jeremybytes.com/Demos.aspx#AA)  
